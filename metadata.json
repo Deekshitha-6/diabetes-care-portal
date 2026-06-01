@@ -1,0 +1,6 @@
+{
+  "name": "Dia-Assisst",
+  "description": "A comprehensive Diabetes and Obesity Management Care Suite with AI-powered food tracking, health progress monitoring, and medication aids.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
